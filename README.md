@@ -1,0 +1,1 @@
+# sound_image_assets
